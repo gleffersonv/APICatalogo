@@ -1,5 +1,5 @@
 <h1 align="center">
-DevFreela.API
+APICatálogo
 </h1>
 
 <p align="center">
