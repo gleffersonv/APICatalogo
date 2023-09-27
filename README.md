@@ -56,3 +56,9 @@ A APICatálogo projetada para atender tanto redes de lojas quanto supermercados 
 
 Prof Macoratti - Curso Web API ASP.NET CORE (.NET 6)
 ## :memo: Licença
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
+---
+
+Feito com ♥ by Glefferson
