@@ -35,28 +35,24 @@ APICatálogo
 
 O Projeto Devfreela.API é uma inovadora plataforma de busca de projetos que tem como objetivo facilitar a conexão direta entre clientes e desenvolvedores, eliminando intermediários e reduzindo os custos de desenvolvimento. O foco é assegurar não apenas um retorno financeiro sólido, mas também o devido reconhecimento e valorização do trabalho dos desenvolvedores. Este projeto representa um passo significativo na otimização do processo de desenvolvimento e na promoção de uma relação mais transparente e benéfica entre as partes envolvidas.
 
-## 🚀 Tecnologias
+## 🚀 Recursos usados
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
-
-- ASP.NET Core com .NET 6
-- Arquitetura Limpa
-- Entity Framework Core
-- CQRS (Command Query Responsibility Segregation)
-- Padrão Repository
-- Validação de APIs
-- Autenticação e Autorização com JWT (JSON Web Tokens)
-- Testes Unitários
-- Mensageria com RabbitMQ
+- ASP.NET Core 6.0 com .NET 6
+- Entity Framework Core 6.x (Code-First)
+- Banco de dados MySql com a ferramenta de gerenciamento Mysql Workbench
+- Realizado CRUD, Criado os Endpoints usando os verbos HTTP: GET POST PUT DELETE
+- Utilizado Visual Studio 2022 usado os novos templates de projetos ( onde não são criados a classe startup por padrão)
+- Foram usados os Controllers e integração com Swagger (suporte a Open API)
+- As configuração e inicialização foram na classe Program
 
 ## 🚧 Funcionalidades
 
-- Cadastro, Listagem, Detalhes, Atualização e Remoção de Projetos
-- Início e Conclusão de Projetos
-- Cadastro de Comentários em Projetos
-- Cadastro, Detalhes e Login de Usuários
+- Criar,ler,editar e excluir produtos e também para consultar produtos e um produto específico
+- Criar,ler,editar e excluir categorias e também consultar categorias,uma categoria específica e os produtos de uma ca tegoria
+- Em categorias são armazenados: nome e o caminho da imagem
+- Em produtos são armazenados: nome,descrição,valor unitário,caminho da imagem,estoque,data do cadastro e categoria.
 
 ## 🎨 Inspiração:
 
-LuisDev Consultoria e Treinamentos em Tecnologia 
+Prof Macoratti - Curso Web API ASP.NET CORE (.NET 6)
 ## :memo: Licença
