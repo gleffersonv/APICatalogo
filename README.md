@@ -8,7 +8,7 @@ APICatálogo
 
 <p align="center">
   <a href="#-descrição">Descrição</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-Recursos usadoss">Recursos usadoss</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-recursos-usados">Recursos usadoss</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-funcionalidades">Funcionalidades</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
@@ -33,7 +33,7 @@ APICatálogo
 
 ## Descrição
 
-O Projeto Devfreela.API é uma inovadora plataforma de busca de projetos que tem como objetivo facilitar a conexão direta entre clientes e desenvolvedores, eliminando intermediários e reduzindo os custos de desenvolvimento. O foco é assegurar não apenas um retorno financeiro sólido, mas também o devido reconhecimento e valorização do trabalho dos desenvolvedores. Este projeto representa um passo significativo na otimização do processo de desenvolvimento e na promoção de uma relação mais transparente e benéfica entre as partes envolvidas.
+A API de Produtos/Catálogo projetada para atender tanto redes de lojas quanto supermercados é uma solução robusta e flexível que oferece uma gestão eficiente e centralizada de informações sobre produtos. Desenvolvida para otimizar a experiência do usuário e proporcionar uma integração suave com sistemas existentes, essa API é a espinha dorsal para a administração de estoques, exibição de produtos e facilitação das operações comerciais
 
 ## 🚀 Recursos usados
 
