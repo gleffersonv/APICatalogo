@@ -33,7 +33,7 @@ APICatálogo
 
 ## Descrição
 
-A API de Produtos/Catálogo projetada para atender tanto redes de lojas quanto supermercados é uma solução robusta e flexível que oferece uma gestão eficiente e centralizada de informações sobre produtos. Desenvolvida para otimizar a experiência do usuário e proporcionar uma integração suave com sistemas existentes, essa API é a espinha dorsal para a administração de estoques, exibição de produtos e facilitação das operações comerciais
+A APICatálogo projetada para atender tanto redes de lojas quanto supermercados é uma solução robusta e flexível que oferece uma gestão eficiente e centralizada de informações sobre produtos. Desenvolvida para otimizar a experiência do usuário e proporcionar uma integração suave com sistemas existentes, essa API é a espinha dorsal para a administração de estoques, exibição de produtos e facilitação das operações comerciais
 
 ## 🚀 Recursos usados
 
